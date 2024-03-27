@@ -7,5 +7,7 @@ This SQL project delves into the analysis of an online music store's dataset, of
 
 ## Tools used
 Postgre SQL
+
 PgAdmin4
+
 Excel
