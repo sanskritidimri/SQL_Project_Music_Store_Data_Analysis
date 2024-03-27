@@ -3,7 +3,7 @@
 ## Exploring Business Growth: Analyzing an Online Music Store Database with SQL
 
 ### Description
-This beginner-friendly SQL project delves into the analysis of an online music store's dataset, offering insights to aid in understanding business growth. By examining the playlist database, participants will learn fundamental SQL skills while addressing key questions to provide actionable intelligence for the store's strategic decisions.
+This SQL project delves into the analysis of an online music store's dataset, offering insights to aid in understanding business growth. By examining this database, we can address key questions to provide actionable intelligence for the store's strategic decisions.
 
 #### Tools used
 Postgre SQL
